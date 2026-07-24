@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity cd7616651185db2f</metadata>
-  <rect width="64" height="64" rx="10" fill="hsl(38 79% 41%)"/>
-  <path d="M31 0h33v64H17Z" fill="hsl(108 64% 57%)" opacity="0.82"/>
-  <g transform="rotate(173 32 32)" opacity="0.42"><path d="M13 45c7-23 31-23 38 0" fill="none" stroke="#101418" stroke-width="8" stroke-linecap="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">HR</text>
+  <title>합정 클럽 비교</title>
+  <rect width="64" height="64" rx="17" fill="hsl(38 75% 37%)"/>
+  <g transform="rotate(90 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(38 24% 96%)" stroke-width="7" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(115 68% 61%)"/></g>
 </svg>
